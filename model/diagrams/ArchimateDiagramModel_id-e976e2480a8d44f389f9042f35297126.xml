@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-e976e2480a8d44f389f9042f35297126">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-efc08851482e4ad897fbdbfd125be484">
+    <bounds
+        x="252"
+        y="288"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-25698015c66a41b78f6e83b3d9e4b9f5.xml#id-25698015c66a41b78f6e83b3d9e4b9f5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-067a5895e92f4fbd842d2c75cb3f3a6d">
+    <bounds
+        x="564"
+        y="288"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-14eb0fa04682412d8b2ec8332e0c6ab6.xml#id-14eb0fa04682412d8b2ec8332e0c6ab6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58f299e215a140c6969743e1e2b71161">
+    <bounds
+        x="408"
+        y="288"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-e82f01704deb432dbb80663dbaf00aad.xml#id-e82f01704deb432dbb80663dbaf00aad"/>
+  </children>
+</archimate:ArchimateDiagramModel>
